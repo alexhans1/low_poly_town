@@ -1,0 +1,48 @@
+#container {
+    background: linear-gradient(to bottom right, #777fb0, #ff8471);
+    border: none;
+    font-family: sans-serif;
+    overflow: hidden;
+}
+
+.demo-layout {
+    /*padding: 20px;*/
+}
+
+button {
+    padding: 15px;
+    margin: 10px;
+    margin-left: 100px
+}
+
+.mdl-layout__drawer {
+    width: 330px;
+    left: -275px;
+}
+
+.mdl-layout__drawer.is-visible {
+    left: 0;
+}
+
+#close {
+    position: absolute;
+    margin: 20px;
+    right:    0;
+    bottom:   0;
+}
+
+#load {
+    position: absolute;
+    margin: 10px;
+    right:    0;
+    bottom:   0;
+}
+
+#explanation {
+    width: 300px;
+    height: 200px;
+}
+
+h6 {
+    margin-left: 20px;
+}

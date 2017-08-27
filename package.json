@@ -1,0 +1,29 @@
+{
+  "name": "gg_low_poly_town",
+  "version": "1.0.0",
+  "description": "Project for Generaive Art class of Beuth University of Applied Sciences 2016/17",
+  "main": "js/test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexhans1/GG-low-poly-town.git"
+  },
+  "keywords": [
+    "generative",
+    "art",
+    "low",
+    "poly"
+  ],
+  "author": "Alexander Hans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexhans1/GG-low-poly-town/issues"
+  },
+  "homepage": "https://github.com/alexhans1/GG-low-poly-town#readme",
+  "dependencies": {
+    "react-essence": "^1.0.10"
+  }
+}
